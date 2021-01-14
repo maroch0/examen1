@@ -6,6 +6,8 @@ public class GestionDatos {
 
 	}
 
+	//Modificamos fichero rama examen
+
 	//TODO: Implementa una función para abrir ficheros
 	
 	//TODO: Implementa una función para cerrar ficheros
